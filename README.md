@@ -10,7 +10,7 @@ Dash app demo 1 for Batch 09 students
     ~~~
     python app.py
     ~~~
-    
+
 
 ## For local setup - One time activity
 1. GitHub repo
@@ -40,3 +40,8 @@ For Windows Machine, open Powershell in terminal and run the below commands
     ~~~
     deactivate
     ~~~
+
+
+## Deployment
+- Use the following link <br>
+    https://dashboard.render.com/login
