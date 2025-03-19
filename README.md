@@ -45,3 +45,14 @@ For Windows Machine, open Powershell in terminal and run the below commands
 ## Deployment
 - Use the following link <br>
     https://dashboard.render.com/login
+
+## Process to build Data Products
+1. Business Requirement 
+2. Create GitHub Repo
+3. Local setup: Clone Repo --> create venv
+4. Data Analysis - Notebook (ipynb)
+5. Build app in local --> run and test 
+6. Push changes to GitHub
+7. Deploy app in Render or any other platform
+8. Test deployed app/dashboard
+9. Link accessible to everyone, share it to Business team
